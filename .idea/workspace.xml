@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cc4c2e34-811c-4fdd-b94d-feae865b8f93" name="Changes" comment="Delete unused lines">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/ShoppingCart/components/Products.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/ShoppingCart/components/Products.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/ShoppingCart/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/ShoppingCart/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/CategorySection/CategorySection.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/CategorySection/CategorySection.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/Discounts/Discounts.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/Discounts/Discounts.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/FeaturedProducts/FeaturedProducts.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/FeaturedProducts/FeaturedProducts.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/Footer/Footer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/Footer/Footer.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/Header/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/Header/Header.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/Products/Products.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/Products/Products.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/Promo/Promo.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/Promo/Promo.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/hero/Hero.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/hero/Hero.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/page.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;GNatroshvili&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/GNatroshvili/telos-react.git&quot;,
+    &quot;accountId&quot;: &quot;300b16f4-c40c-4a0d-8fcb-0737eff2a8cf&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2uBcxGKKAoXJi7jhkZZfXHd4hxF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/natroshvili/projects/telos-react&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.dev.executor&quot;: &quot;Run&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/home/natroshvili/projects/telos-react/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RdControllerToolWindowsLayoutState" isNewUi="true">
+    <layout>
+      <window_info id="Bookmarks" side_tool="true" />
+      <window_info id="Merge Requests" />
+      <window_info id="Commit_Guest" show_stripe_button="false" />
+      <window_info id="Pull Requests" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1497396" />
+      <window_info id="Commit" order="1" weight="0.17161459" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="TypeScript" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="File Transfer" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.32994187" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.39486435" />
+      <window_info anchor="bottom" id="Run" order="4" weight="0.32994187" />
+      <window_info anchor="bottom" id="Services" order="5" weight="0.029554263" />
+      <window_info anchor="bottom" id="Find" order="6" weight="0.029554263" />
+      <window_info anchor="right" id="Endpoints" />
+      <window_info anchor="right" id="Coverage" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-WS-243.22562.222" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc4c2e34-811c-4fdd-b94d-feae865b8f93" name="Changes" comment="" />
+      <created>1741725655582</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741725655582</updated>
+      <workItem from="1741725658058" duration="337000" />
+      <workItem from="1742028855673" duration="1249000" />
+      <workItem from="1742030478261" duration="1354000" />
+      <workItem from="1742032916433" duration="442000" />
+      <workItem from="1742154307435" duration="7000" />
+    </task>
+    <task id="LOCAL-00001" summary="Fix className bug in Footer, Header and Page.module.css, Delete unused file.">
+      <option name="closed" value="true" />
+      <created>1742030651950</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1742030651950</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Delete unused lines">
+      <option name="closed" value="true" />
+      <created>1742031062066</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1742031062066</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Fix className bug in Footer, Header and Page.module.css, Delete unused file." />
+    <MESSAGE value="Delete unused lines" />
+    <option name="LAST_COMMIT_MESSAGE" value="Delete unused lines" />
+  </component>
+</project>
